@@ -1,0 +1,8 @@
+# игнорируем файлы *_old
+*_old
+#игнорируем файлы *_backup
+*_backup
+# игнорируем файл Thumbs.db
+Thumbs.db
+#Игнорируем файл .DS_Store
+.DS_Store
